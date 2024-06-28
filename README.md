@@ -36,7 +36,7 @@
 
   <img align="center" alt="tecnologia-nextjs" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
 
-  <img align="center" alt="tecnologia-tailwindcss" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img align="center" alt="tecnologia-tailwindcss" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
   <img align="center" alt="tecnologia-mui" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
 
