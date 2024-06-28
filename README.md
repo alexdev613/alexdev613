@@ -14,9 +14,13 @@
 ### Vamos nos conectar e trabalhar juntos em um projeto!!!
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexdev613)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-nascimento-b818b694/)
+
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5587981157269&text=Ol%C3%A1%20Alex,%20visitei%20seu%20GitHub%20e%20fiquei%20interessado%20em%20trabalhar%20com%20você!)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexnascimento613)
+
 [![Linketree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://devlinktree.vercel.app/)
 
 ### 🛠️ Tecnologias e ferramentas que costumo usar:
