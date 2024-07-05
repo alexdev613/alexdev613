@@ -2,7 +2,7 @@
 
 ### Eu sou Alex Nascimento, desenvolvedor, técnico em informática e cientista! 👨🏻‍💻👨🏻‍🔬⚗️🧪
 
-<strong>Desenvoldo em JavaScript utilizando sempre do superset TypeScript para criar aplicações bem estruturadas e escaláveis, garantindo manutenção eficiente e segurança no código.</strong>
+<strong>Desenvolvo em JavaScript utilizando sempre do superset TypeScript para criar aplicações bem estruturadas e escaláveis, garantindo manutenção eficiente e segurança no código.</strong>
 
 👉🏼 Atualmente meu foco é Fullstack, mas tenho boa experiência em Front End...
 
