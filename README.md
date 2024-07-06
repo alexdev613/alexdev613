@@ -4,12 +4,17 @@
 
 <strong>Desenvolvo em JavaScript utilizando sempre do superset TypeScript para criar aplicações bem estruturadas e escaláveis, garantindo manutenção eficiente e segurança no código.</strong>
 
+<br />
+
 👉🏼 Atualmente meu foco é Fullstack, mas tenho boa experiência em Front End...
+
+<br />
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexdev613&show_icons=true&theme=tokyonight"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev613&layout=compact&theme=tokyonight"/>
 </div>
+<br />
 
 ### Vamos nos conectar e trabalhar juntos em um projeto!!!
 
@@ -18,6 +23,8 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5587981157269&text=Ol%C3%A1%20Alex,%20visitei%20seu%20GitHub%20e%20fiquei%20interessado%20em%20trabalhar%20com%20você!)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexnascimento613)
 [![Linketree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://devlinktree.vercel.app/)
+
+<br />
 
 ### 🛠️ Tecnologias e ferramentas que costumo usar:
 
@@ -48,4 +55,7 @@
 
   <img align="center" alt="tecnologia-mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
+  <br /><br />
+ 
+   [![](https://visitcount.itsvg.in/api?id=Alex&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 </div>
